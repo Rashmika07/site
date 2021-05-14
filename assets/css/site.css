@@ -3,5 +3,124 @@
   paddng: 0;
   box-sizing: border-box;
 }
+/* About US CSS begins */
 
+h1{
+	font-family: 'Spartan',sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+text-align: center;
+
+letter-spacing: -0.5px;
+
+color: #000000;
+position:absolute;
+left:581px;
+top:150px;
+
+
+
+
+}
+#mission{
+	font-family: 'Spartan',sans-serif;
+position: absolute;
+width: 239.23px;
+height: 45.68px;
+left: 140px;
+top: 331px;
+
+/* heading 4-34px */
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 40px;
+/* or 118% */
+
+letter-spacing: 0.25px;
+
+color: #000000;
+}
+/* or 118% */
+
+#vision{
+	font-family: 'Spartan',sans-serif;
+position: absolute;
+
+left: 140px;
+top: 622px;
+
+/* heading 4-34px */
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 40px;
+/* identical to box height, or 118% */
+
+letter-spacing: 0.25px;
+
+color: #000000;
+}
+p.ourmission{
+	font-family: 'Libre Baskerville',serif;
+	position: absolute;
+width: 447px;
+height: 177px;
+left: 140px;
+top: 411px;
+
+/* subtitle 2-16px */
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+letter-spacing: 0.55px;
+
+color: #000000;
+
+}
+p.ourvision{
+
+	font-family: 'Libre Baskerville',serif;
+position: absolute;
+width: 447px;
+height: 205px;
+left: 139px;
+top: 696px;
+
+/* subtitle 2-16px */
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+letter-spacing: 0.55px;
+
+color: #000000;
+
+}
+
+img{
+	
+	position: absolute;
+	top:349px;
+	
+	left: 755px;
+	width: 530px;
+height: 530px;
+}
+
+/* About Us CSS ends */
 
